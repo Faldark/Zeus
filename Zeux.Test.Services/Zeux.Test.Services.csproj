@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Zeux.Test.Models\Zeux.Test.Models.csproj" />
+    <ProjectReference Include="..\Zeux.Test.Repositories\Zeux.Test.Repositories.csproj" />
+  </ItemGroup>
+
+</Project>
